@@ -24,11 +24,11 @@ With our **UncSamp** approach, self-training achieves further significant improv
 Further analyses suggest that our **UncSamp** approach does improve the translation quality of high-uncertainty sentences and also benefits the prediction of low-frequency words at the target-side.
 
 <div align="center">
-    <img src="/image/Analysis-UncSent.png" width="50%" title="Analysis for Uncertain Sentences."</img>
+    <img src="/image/Analysis-UncSent.png" width="40%" title="Analysis for Uncertain Sentences."</img>
     <p class="image-caption">Table 2: Analysis for uncertain sentences.</p>
 </div>
 
 <div align="center">
-    <img src="/image/Analysis-LowFreq.png" width="50%" title="Analysis for Low Frequency Words."</img>
-    <p class="image-caption">Table 2: Analysis for low frequency words.</p>
+    <img src="/image/Analysis-LowFreq.png" width="40%" title="Analysis for Low Frequency Words."</img>
+    <p class="image-caption">Table 3: Analysis for low frequency words.</p>
 </div>
