@@ -1,5 +1,5 @@
 # UncSamp: Self-training Sampling with Monolingual Data Uncertainty for Neural Machine Translation
-Implementation of our paper "Self-training Sampling with Monolingual Data Uncertainty for Neural Machine Translation" to appear in ACL 2021. [[paper]](https://www.aclweb.org/anthology/2021.acl-main.xxx/)
+Implementation of our paper "Self-training Sampling with Monolingual Data Uncertainty for Neural Machine Translation" to appear in ACL 2021. [[paper]](https://arxiv.org/abs/2106.00941)
 
 
 ## Brief Introduction
