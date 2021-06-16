@@ -32,3 +32,17 @@ Further analyses suggest that our **UncSamp** approach does improve the translat
     <img src="/image/Analysis-LowFreq.png" width="40%" title="Analysis for Low Frequency Words."</img>
     <p class="image-caption">Table 3: Analysis for low frequency words.</p>
 </div>
+
+
+## Public Impact
+### Citation
+Please kindly cite our paper if you find it helpful:
+
+```ruby
+@inproceedings{jiao2021self,
+  title={Self-Training Sampling with Monolingual Data Uncertainty for Neural Machine Translation},
+  author={Wenxiang Jiao and Xing Wang and Zhaopeng Tu and Shuming Shi and Michael R. Lyu and Irwin King},
+  booktitle = {ACL},
+  year      = {2021}
+}
+```
