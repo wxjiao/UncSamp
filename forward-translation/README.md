@@ -181,7 +181,7 @@ cp ./wmt19_en_de/data-bin/dict.* ./{DATA_FT}/data-bin
 
 python3 ./fairseq/preprocess.py \
   --source-lang en \
-  --target-lang en \
+  --target-lang de \
   --trainpref ./{DATA_FT}/data-bpe/ft_data_beam \
   --destdir ./{DATA_FT}/data-bin \
   --workers 32 \
